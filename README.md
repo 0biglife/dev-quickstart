@@ -17,39 +17,6 @@
 ---
 
 <br>
-
-# Architecture
-
-```bash
-dev-quickstart/
-├── cmd/
-│   ├── root.go       ✅ (CLI 명령어 관련 코드만 유지)
-│   ├── frontend.go   # FE Project Setting
-│   ├── backend.go    # BE ..
-│   ├── ci_cd.go      # CI/CD Pipeline
-├── utils/
-│   ├── utils.go
-├── main.go           ✅ (루트로 이동)
-├── go.mod
-
-```
-
-# How to run
-
-프로젝트를 설정하려면 다음 명령어를 실행하세요:
-
-```bash
-go run main.go setup
-```
-
-🔧 **추가적인 커스텀 기능 넣을 예정입니다.**
-
-1. custom input
-2. ci/cd path
-3. ci/cd customized jobs
-
----
-
 <br>
 
 # Architecture
@@ -67,6 +34,8 @@ dev-quickstart/
 ├── go.mod
 
 ```
+
+<br>
 
 # How to run
 
