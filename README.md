@@ -5,7 +5,15 @@
 이 프로젝트는 `cobra` 기반의 CLI 애플리케이션입니다.
 프로젝트 초기 구축과 CI/CD yaml 자동화 생성을 돕는 프로그램입니다.
 
+---
+
 추가적인 커스텀 기능 넣을 예정입니다.
+
+1. custom input
+2. ci/cd path
+3. ci/cd customized jobs
+
+---
 
 <br>
 
